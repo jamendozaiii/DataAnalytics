@@ -40,3 +40,4 @@ This repository curates analytics case studies, dashboards, and reproducible not
 | Churn Segmentation | RFM + k-means clustering, identified high-value cohorts | Python, Tableau | [case study](./projects/churn_segmentation/README.md) |
 | A/B Testing Deep Dive | Designed experiment analysis templates | Python, Excel | [notebook](./notebooks/examples/ab_test.ipynb) |
 
+,
