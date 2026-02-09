@@ -39,5 +39,3 @@ This repository curates analytics case studies, dashboards, and reproducible not
 | Retail Sales Forecasting | Built ARIMA/Prophet forecasts, improving MAPE by 18% | Python, Power BI | [case study](./projects/retail_sales_forecasting/README.md) |
 | Churn Segmentation | RFM + k-means clustering, identified high-value cohorts | Python, Tableau | [case study](./projects/churn_segmentation/README.md) |
 | A/B Testing Deep Dive | Designed experiment analysis templates | Python, Excel | [notebook](./notebooks/examples/ab_test.ipynb) |
-
-add new line h
