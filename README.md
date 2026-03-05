@@ -41,4 +41,3 @@ This repository curates analytics case studies, dashboards, and reproducible not
 | A/B Testing Deep Dive | Designed experiment analysis templates | Python, Excel | [notebook](./notebooks/examples/ab_test.ipynb) |
 
 
-.
